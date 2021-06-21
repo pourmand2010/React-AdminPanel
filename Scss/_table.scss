@@ -1,0 +1,96 @@
+//
+// Component: Table
+//
+.zurTable {
+  input {
+    border: none;
+    border-color: #8b969c;
+  }
+
+  input:focus {
+    border: none;
+    outline: none;
+  }
+
+  .tools .btn {
+    margin: 2px;
+  }
+
+  .zur-sort:after {
+    content: " \21C5";
+  }
+
+  .zur-sort:hover {
+    cursor: pointer;
+    text-shadow: 1px 4px 6px #fff, 0 0 0 #3c3c52, 1px 1px 0px #606c6d;
+  }
+}
+
+.table {
+  &:not(.table-dark) {
+    color: inherit;
+  }
+
+  // fixed table head
+  &.table-head-fixed {
+    thead tr:nth-child(1) th {
+      background-color: $white;
+      border-bottom: 0;
+      box-shadow: inset 0 1px 0 $table-border-color, inset 0 -1px 0 $table-border-color;
+      position: sticky;
+      top: 0;
+      z-index: 10;
+    }
+
+    &.table-dark {
+      thead tr {
+        &:nth-child(1) th {
+          background-color: $table-dark-bg;
+          box-shadow: inset 0 1px 0 $table-dark-border-color, inset 0 -1px 0 $table-dark-border-color;
+        }
+      }
+    }
+  }
+
+  // no border
+  &.no-border {
+    &,
+    td,
+    th {
+      border: 0;
+    }
+  }
+
+  // .text-center in tables
+  &.text-center {
+    &,
+    td,
+    th {
+      text-align: center;
+    }
+  }
+
+  &.table-valign-middle {
+    thead > tr > th,
+    thead > tr > td,
+    tbody > tr > th,
+    tbody > tr > td {
+      vertical-align: middle;
+    }
+  }
+
+  .card-body.p-0 & {
+    thead > tr > th,
+    thead > tr > td,
+    tbody > tr > th,
+    tbody > tr > td {
+      &:first-of-type {
+        padding-left: map-get($spacers, 4);
+      }
+
+      &:last-of-type {
+        padding-right: map-get($spacers, 4);
+      }
+    }
+  }
+}

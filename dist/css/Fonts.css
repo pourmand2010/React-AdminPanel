@@ -1,0 +1,140 @@
+﻿@font-face {
+  font-family: IranSans;
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url("/Fonts/IranSans/Eot/IranSansWebBlack.eot");
+  src: url("/Fonts/IranSans/Eot/IranSansWebBlack.eot?#iefix") format("embedded-opentype"), url("/Fonts/IranSans/Woff2/IranSansWebBlack.woff2") format("woff2"), url("/fonts/IranSansWebBlack.woff") format("woff"), url("/Fonts/IranSans/Ttf/IranSansWebBlack.ttf") format("truetype"); }
+
+@font-face {
+  font-family: IranSans;
+  font-style: normal;
+  font-weight: bold;
+  font-display: swap;
+  src: url("/Fonts/IranSans/Eot//IranSansWebBold.eot");
+  src: url("/Fonts/IranSans/Eot//IranSansWebBold.eot?#iefix") format("embedded-opentype"), url("/Fonts/IranSans/Woff2/IranSansWebBold.woff2") format("woff2"), url("/fonts/IranSansWebBold.woff") format("woff"), url("/Fonts/IranSans/Ttf/IranSansWebBold.ttf") format("truetype"); }
+
+@font-face {
+  font-family: IranSans;
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/Fonts/IranSans/Eot/ranSansWebMedium.eot");
+  src: url("/Fonts/IranSans/Eot/ranSansWebMedium.eot?#iefix") format("embedded-opentype"), url("/Fonts/IranSans/Woff2/IranSansWebMedium.woff2") format("woff2"), url("/fonts/IranSansWebMedium.woff") format("woff"), url("/Fonts/IranSans/Ttf/IranSansWebMedium.ttf") format("truetype"); }
+
+@font-face {
+  font-family: IranSans;
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url("/Fonts/IranSans/Eot/IranSansWebLight.eot");
+  src: url("/Fonts/IranSans/Eot/IranSansWebLight.eot?#iefix") format("embedded-opentype"), url("/Fonts/IranSans/Woff2/IranSansWebLight.woff2") format("woff2"), url("/fonts/IranSansWebLight.woff") format("woff"), url("/Fonts/IranSans/Ttf/IranSansWebLight.ttf") format("truetype"); }
+
+@font-face {
+  font-family: IranSans;
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url("/font/Fonts/IranSans/Eot/ansWebUltraLight.eot");
+  src: url("/font/Fonts/IranSans/Eot/ansWebUltraLight.eot?#iefix") format("embedded-opentype"), url("/Fonts/IranSans/Woff2/IranSansWebUltraLight.woff2") format("woff2"), url("/fonts/IranSansWebUltraLight.woff") format("woff"), url("/Fonts/IranSans/Ttf/IranSansWebUltraLight.ttf") format("truetype"); }
+
+@font-face {
+  font-family: IranSans;
+  font-style: normal;
+  font-weight: normal;
+  font-display: swap;
+  src: "/Fonts/IranSans/Eot/onts/IranSansWeb.eot";
+  src: "/Fonts/IranSans/Eot/onts/IranSansWeb.eot?#iefix" format("embedded-opentype"), url("/Fonts/IranSans/Woff2/IranSansWeb.woff2") format("woff2"), url("/fonts/IranSansWeb.woff") format("woff"), url("/Fonts/IranSans/Ttf/IranSansWeb.ttf") format("truetype"); }
+
+@font-face {
+  font-family: IranSansFarsiNumerals;
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url("/fonts/Ira/Fonts/IranSans/Eot/rsiNumeralsBlack.eot");
+  src: url("/fonts/Ira/Fonts/IranSans/Eot/rsiNumeralsBlack.eot?#iefix") format("embedded-opentype"), url("/Fonts/IranSans/Woff2/IranSansFarsiNumeralsBlack.woff2") format("woff2"), url("/fonts/IranSansFarsiNumeralsBlack.woff") format("woff"), url("/Fonts/IranSans/Ttf/IranSansFarsiNumeralsBlack.ttf") format("truetype"); }
+
+@font-face {
+  font-family: IranSansFarsiNumerals;
+  font-style: normal;
+  font-weight: bold;
+  font-display: swap;
+  src: url("/fonts/Ir/Fonts/IranSans/Eot/arsiNumeralsBold.eot");
+  src: url("/fonts/Ir/Fonts/IranSans/Eot/arsiNumeralsBold.eot?#iefix") format("embedded-opentype"), url("/Fonts/IranSans/Woff2/IranSansFarsiNumeralsBold.woff2") format("woff2"), url("/fonts/IranSansFarsiNumeralsBold.woff") format("woff"), url("/Fonts/IranSans/Ttf/IranSansFarsiNumeralsBold.ttf") format("truetype"); }
+
+@font-face {
+  font-family: IranSansFarsiNumerals;
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/fonts/Iran/Fonts/IranSans/Eot/siNumeralsMedium.eot");
+  src: url("/fonts/Iran/Fonts/IranSans/Eot/siNumeralsMedium.eot?#iefix") format("embedded-opentype"), url("/Fonts/IranSans/Woff2/IranSansFarsiNumeralsMedium.woff2") format("woff2"), url("/fonts/IranSansFarsiNumeralsMedium.woff") format("woff"), url("/Fonts/IranSans/Ttf/IranSansFarsiNumeralsMedium.ttf") format("truetype"); }
+
+@font-face {
+  font-family: IranSansFarsiNumerals;
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url("/fonts/Ira/Fonts/IranSans/Eot/rsiNumeralsLight.eot");
+  src: url("/fonts/Ira/Fonts/IranSans/Eot/rsiNumeralsLight.eot?#iefix") format("embedded-opentype"), url("/Fonts/IranSans/Woff2/IranSansFarsiNumeralsLight.woff2") format("woff2"), url("/fonts/IranSansFarsiNumeralsLight.woff") format("woff"), url("/Fonts/IranSans/Ttf/IranSansFarsiNumeralsLight.ttf") format("truetype"); }
+
+@font-face {
+  font-family: IranSansFarsiNumerals;
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url("/fonts/IranSans/Fonts/IranSans/Eot/meralsUltraLight.eot");
+  src: url("/fonts/IranSans/Fonts/IranSans/Eot/meralsUltraLight.eot?#iefix") format("embedded-opentype"), url("/Fonts/IranSans/Woff2/IranSansFarsiNumeralsUltraLight.woff2") format("woff2"), url("/fonts/IranSansFarsiNumeralsUltraLight.woff") format("woff"), url("/Fonts/IranSans/Ttf/IranSansFarsiNumeralsUltraLight.ttf") format("truetype"); }
+
+@font-face {
+  font-family: IranSansFarsiNumerals;
+  font-style: normal;
+  font-weight: normal;
+  font-display: swap;
+  src: url("/font/Fonts/IranSans/Eot/ansFarsiNumerals.eot");
+  src: url("/font/Fonts/IranSans/Eot/ansFarsiNumerals.eot?#iefix") format("embedded-opentype"), url("/Fonts/IranSans/Woff2/IranSansFarsiNumerals.woff2") format("woff2"), url("/fonts/IranSansFarsiNumerals.woff") format("woff"), url("/Fonts/IranSans/Ttf/IranSansFarsiNumerals.ttf") format("truetype"); }
+
+@font-face {
+  font-family: IranSansOnlyMonospacedFarsiNumerals;
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url("/fonts/IranSansOnlyMonospacedFarsiNumeralsBlack.woff") format("woff"), url("/Fonts/IranSans/Ttf/IranSansOnlyMonospacedFarsiNumeralsBlack.ttf") format("truetype"); }
+
+@font-face {
+  font-family: IranSansOnlyMonospacedFarsiNumerals;
+  font-style: normal;
+  font-weight: bold;
+  font-display: swap;
+  src: url("/fonts/IranSansOnlyMonospacedFarsiNumeralsBold.woff") format("woff"), url("/Fonts/IranSans/Ttf/IranSansOnlyMonospacedFarsiNumeralsBold.ttf") format("truetype"); }
+
+@font-face {
+  font-family: IranSansOnlyMonospacedFarsiNumerals;
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/fonts/IranSansOnlyMonospacedFarsiNumeralsMedium.woff") format("woff"), url("/Fonts/IranSans/Ttf/IranSansOnlyMonospacedFarsiNumeralsMedium.ttf") format("truetype"); }
+
+@font-face {
+  font-family: IranSansOnlyMonospacedFarsiNumerals;
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url("/fonts/IranSansOnlyMonospacedFarsiNumeralsLight.woff") format("woff"), url("/Fonts/IranSans/Ttf/IranSansOnlyMonospacedFarsiNumeralsLight.ttf") format("truetype"); }
+
+@font-face {
+  font-family: IranSansOnlyMonospacedFarsiNumerals;
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url("/fonts/IranSansOnlyMonospacedFarsiNumeralsUltraLight.woff") format("woff"), url("/Fonts/IranSans/Ttf/IranSansOnlyMonospacedFarsiNumeralsUltraLight.ttf") format("truetype"); }
+
+@font-face {
+  font-family: IranSansOnlyMonospacedFarsiNumerals;
+  font-style: normal;
+  font-weight: normal;
+  font-display: swap;
+  src: url("/fonts/IranSansOnlyMonospacedFarsiNumerals.woff") format("woff"), url("/Fonts/IranSans/Ttf/IranSansOnlyMonospacedFarsiNumerals.ttf") format("truetype"); }
+
+body * {
+  font-family: IranSans !important; }

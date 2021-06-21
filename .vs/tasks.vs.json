@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-_login",
+      "appliesTo": "Scss/pages/_login.scss",
+      "type": "launch"
+    }
+  ]
+}
